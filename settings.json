@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "CraftyCasino",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "CraftyCasino.aternos.me:35114",
     "port": 27586,
     "version": "",
     "try-creative": false
